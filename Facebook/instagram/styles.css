@@ -1,0 +1,82 @@
+.login-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #fafafa;
+}
+.content-1{
+    margin-top: 35px;
+}
+.content-2{
+    max-width: 350px;
+    /*margin: auto;*/
+    margin-top: 25px;
+}
+.content,
+.sign-up{
+    max-width: 350px;
+    /*margin: auto;*/
+    border: 1px solid #cecece;
+    margin-top: 50px;
+}
+.login{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+.fields{
+    margin-top: 20px;
+}
+h1{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.fields-1{
+    margin-bottom: 10px;
+}
+.hr{
+    width: 40%;
+}
+.line,
+.login-with-fb{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 15px;
+    color: #443c81;
+}
+.forgot-password,
+.get-the-app{
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: #443c81;
+    font-size: .8em;
+}
+.sign-up{
+    margin-top: 15px;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+.sign-up-button{
+    color: #3675ac;
+}
+.app{
+    height: 40px;
+    width: 42%;
+    padding-right: 10px;
+}
+.get-the-app{
+    text-align: center;
+    font-size: .8em;
+    color: black;
+}
+.download-options{
+    display: flex;
+    justify-content: center;
+}
+.login-with-fb{
+    font-size: .9em;
+}
