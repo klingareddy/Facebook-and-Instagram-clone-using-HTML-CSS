@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    background-color: #ebedf0;
+}
+.header,
+.fb-text,
+.login,
+.fbtext{
+    background-color: #3b5998;
+    font-weight: 700;
+}
+
+
+.top-container{
+    background-color: #3b5998;
+    height: 86px;
+}
+.header{
+    width: 980px;
+    margin: auto;
+    display: flex;
+    justify-content:space-between;
+}
+.fb-text,
+.login{
+    padding-top: 30px;
+    color: white;
+
+}
+.but{
+    background-color: #5172b9;
+    color: white;
+}
+
+.middle-content{
+    width: 390px;
+    margin: auto;
+    background-color: #ebedf0;
+    padding-top: 20px;
+}
+.first-last-name{
+    display: flex;
+    margin-top: 20px;
+}
+.first-name{
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+.Surname{
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+.password{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.radio{
+    display: flex;
+    margin-top: 15px;
+}
+label{
+    margin-right: 25px;
+    font-size: 110%;
+}
+.terms{
+    font-size: 70%;
+    width: 300px;
+    word-spacing: 1px;
+}
